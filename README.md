@@ -1,2 +1,36 @@
-# imgEditor
-A straightforward and handy image editing tool with essential features. Adjust brightness, saturation, invert colors, apply grayscale, rotate, and flip images effortlessly. Open-source and user-friendly. Perfect for quick edits and enhancing images. 
+# ImageEditor
+
+Welcome to ImageEditor, a simple and efficient image editing tool.
+
+
+## Features
+
+ImageEditor offers the following features:
+
+- Adjust Brightness
+- Enhance Saturation
+- Invert Colors
+- Apply Grayscale
+- Rotate Images
+- Flip Images
+
+## Getting Started
+
+To use ImageEditor, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/iwmvictor/imgEditor.git`
+2. Open the `index.html` file in your preferred web browser.
+
+## Usage
+
+1. Upload an image you want to edit.
+2. Choose from the available editing options to enhance your image.
+3. Save your edited image.
+
+
+## Contact
+
+For any inquiries, feel free to reach out to Iwm Victor via:
+
+- GitHub: [@iwmvictor](https://github.com/iwmvictor)
+- Email: isingizwemunezerovictor5@gmail.com
