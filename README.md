@@ -14,6 +14,11 @@ ImageEditor offers the following features:
 - Rotate Images
 - Flip Images
 
+## Preview
+
+![image Editor](/preview.png)
+
+
 ## Getting Started
 
 To use ImageEditor, follow these steps:
