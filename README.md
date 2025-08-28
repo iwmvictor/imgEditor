@@ -1,6 +1,6 @@
 # ImageEditor
 
-Welcome to ImageEditor, a simple and efficient image editing tool.
+Welcome to Quick Image Editor, a simple and efficient image editing tool.
 
 
 ## Features
@@ -38,4 +38,4 @@ To use ImageEditor, follow these steps:
 For any inquiries, feel free to reach out to Iwm Victor via:
 
 - GitHub: [@iwmvictor](https://github.com/iwmvictor)
-- Email: isingizwemunezerovictor5@gmail.com
+- Email: [iwmvik@gmail.com](iwmvik@gmail.com)
